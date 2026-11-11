@@ -12,7 +12,7 @@
 
 ---
 
-## `whoami`
+## `who am i`
 
 Hello! I'm **Dhanush HS**, an engineering student passionate about cybersecurity, software engineering and emerging technologies.
 
@@ -23,7 +23,6 @@ I'm interested in understanding how systems work, identifying security weaknesse
 - 💻 Interested in Software Engineering and Application Development
 - 🐧 Exploring Kali Linux and Linux Administration
 - 🌐 Learning Network Security and Ethical Hacking
-- 🤖 Exploring Machine Learning and AI
 - 🚀 Building practical projects and improving my technical skills
 
 **Mission:** Build secure software, understand vulnerabilities and continuously develop as an engineer.
@@ -36,9 +35,7 @@ I'm interested in understanding how systems work, identifying security weaknesse
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### 🔐 Cybersecurity & Networking
