@@ -30,11 +30,7 @@
 | Programming | Python, Bash |
 | Version Control | Git, GitHub |
 
-## 🚀 Projects
 
-- 🔍 Network Security Scanner – [Add repository link]
-- 🛡️ Vulnerability Assessment Toolkit – [Add repository link]
-- 🌐 Web Application Security Testing – [Add repository link]
 
 ## 📚 Currently Learning
 
@@ -67,7 +63,7 @@
 
 <p align="center">
   🔐 Learning. Testing. Securing. Repeating.
-</p>## Hi there 👋
+</p>
 
 <!--
 **dhanush-hs-11/dhanush-hs-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
